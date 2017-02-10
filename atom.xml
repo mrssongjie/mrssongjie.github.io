@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-20T15:15:12.000Z</updated>
+  <updated>2017-02-10T02:44:01.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github连接不上</title>
+    <link href="http://yoursite.com/2017/02/10/github%E8%BF%9E%E6%8E%A5%E4%B8%8D%E4%B8%8A/"/>
+    <id>http://yoursite.com/2017/02/10/github连接不上/</id>
+    <published>2017-02-10T02:43:14.000Z</published>
+    <updated>2017-02-10T02:44:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>连接不上了</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;连接不上了&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今天是小年</title>
